@@ -19,7 +19,7 @@ Para criar o projeto, basta ir em New Project > New Directory > Book project usi
 
 DÚVIDAS: 
 Para dúvidas, você pode usar os fóruns: https://stackoverflow.com/questions/tagged/bookdown+r e https://community.rstudio.com/tags/c/R-Markdown/10/bookdown
-Também é poessível acessar um manual em https://pkgs.rstudio.com/bookdown/articles/bookdown.html
+Também é possível acessar um manual em https://pkgs.rstudio.com/bookdown/articles/bookdown.html
 
 CÓDIGO DE CONDUTA:
 O projeto de código aberto Bookdown estabelece alguns termos de conduta que devem ser aceitos e seguidos por quem desejar colaborar, que está disponível em https://pkgs.rstudio.com/bookdown/CODE_OF_CONDUCT.html
