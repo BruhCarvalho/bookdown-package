@@ -12,9 +12,9 @@ Pode ser publicado no GitHub, bookdown.org e em qualquer servidor web;
 Integrado com o IDE RStudio.
 
 INSTALAÇÃO:
-install.packages("bookdown") Se você desejar usar a versão de desenvolvedor, é possível instalar o pacote a partir do GitHub através do remotes :: install_github ('rstudio/bookdown')
+install.packages("bookdown") É possível usar a versão de desenvolvedor,bastando instalar o pacote a partir do GitHub através do remotes :: install_github ('rstudio/bookdown')
 
-USABILIDADE: 
+NOVO PROJETO: 
 Para criar o projeto, basta ir em New Project > New Directory > Book project using Bookdown. Será criado um novo diretório com um pequeno modelo de livro como exemlo, que estará pronto para ser exportado em HTML através do: Build Pane > Build Book > bookdown::gitbook 
 
 DÚVIDAS: 
